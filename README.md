@@ -1,6 +1,6 @@
  <img align="left" alt="Tha-PicDrewIcon" height="150" style="border-radius:50px;" src="https://i.imgur.com/xGCgzaO.png">
  
-## Prazer, sou a Thais Oliveira
+## Prazer, Thais Oliveira
 ## 
 👩🏼‍💻 Dev Java Full Stack Jr em desenvolvimento | 👩🏼 Pronomes: Ela | Dela
 
