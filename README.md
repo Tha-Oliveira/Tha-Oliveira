@@ -12,7 +12,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tha-Oliveira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
-<div style="display: inline_block"><br>
+ ## Skills 🤓
+<div style="display: inline_block"><br> 
   <img align="center" alt="Tha-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Tha-Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img align="center" alt="Tha-MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
@@ -24,9 +25,9 @@
 
 </div>
 
-##
+## 📱
 
-<div> 
+<div>
   <a href="https://instagram.com/thaa.oliveira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/Thais Oliveira#4286" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:thaa.s.oliveira@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
